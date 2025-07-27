@@ -1,4 +1,8 @@
-<p align="left">
-  <img src="pictures/astra.png" width="300"/>    
-</p>
-szoftverfejlesztő szak
+<table>
+  <tr>
+    <td><img src="pictures/astra.png" width="300"/></td>
+    <td><img src="pictures/cat.png" width="300"/></td>
+  </tr>
+</table>
+
+<p align="left">szoftverfejlesztő szak</p>
