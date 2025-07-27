@@ -1,1 +1,1 @@
-<img src="pictures/astra.png" width="200"/>
+(pictures/astra.png)
