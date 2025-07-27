@@ -5,4 +5,4 @@
   </tr>
 </table>
 
-<p align="left">szoftverfejlesztő szak</p>
+<p>szoftverfejlesztő szak</p>
